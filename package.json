@@ -1,0 +1,13 @@
+{
+  "name": "tdd-case-study",
+  "version": "1.0.0",
+  "description": "Test-Driven Development: A Case Study",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Hess <hessro@oregonstate.edu>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
